@@ -1,0 +1,1 @@
+e-commerce project for my portfolio, utilizing React, React Router and state management. Created from scratch to show technical knowledge of frontend.
