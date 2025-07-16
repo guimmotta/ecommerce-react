@@ -1,1 +1,1 @@
-e-commerce project for my portfolio, utilizing React, React Router and state management. Created from scratch to show technical knowledge of frontend.
+This is a e-commerce application built with React, React Router and Redux. It was created from scratch to demonstrate the use of these technologies in building a front-end application.
